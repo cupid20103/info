@@ -1,6 +1,6 @@
 # info
 
-bc1qgzufn787wtgxqvsrfnxp0k0u6vvnp484m5sdyf - btc
+3Gdnuec1dYRBaBqkcTE6h7MYaiocp1gRen - btc
 
 0xC85ceaBC50Bc7832B787C02febD9ffA995C854B8 - erc20, bep20
 
