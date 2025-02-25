@@ -9,3 +9,5 @@ bc1qgzufn787wtgxqvsrfnxp0k0u6vvnp484m5sdyf - btc
 TUEdTQZKPVFHm7fJg9f4qBVecxfaKSqVr5 - trc20
 
 Ahk6hAY88fWUFMpVLwXPHGuBCPR83wkTBHqVizbijxii - solana
+
+https://t.me/cupid2417 telegram
