@@ -1,11 +1,7 @@
 # info
 
-bc1qk9ehtgdflx8wnyddjd3c3hywr42zxh4wuwlrtl - btc
+0xC0480F733515a843f24bb96588D89745F669f718 - erc20, bep20
 
-0xC85ceaBC50Bc7832B787C02febD9ffA995C854B8 - erc20, bep20
-
-TUEdTQZKPVFHm7fJg9f4qBVecxfaKSqVr5 - trc20
-
-Ahk6hAY88fWUFMpVLwXPHGuBCPR83wkTBHqVizbijxii - solana
+TTVu4jNrN2GLihLsJHcbWUVneL28bYgfqY - trc20
 
 https://t.me/cupid2417 telegram
