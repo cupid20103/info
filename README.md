@@ -1,7 +1,6 @@
 # info
 
-0xC0480F733515a843f24bb96588D89745F669f718 - erc20, bep20
-
-TTVu4jNrN2GLihLsJHcbWUVneL28bYgfqY - trc20
+TCKaUumwxRy9XiYK47QUwwSrGHCYaE5426 (TRC)
+0xe4839422fc9bdeaf92140fd10f0be7a21296ff9b (ERC, BEP)
 
 https://t.me/cupid2417 telegram
